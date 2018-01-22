@@ -2,10 +2,10 @@
 int main()
 {
 char c;
-scanf("%d",&c);
+scanf("%c",&c);
 if ((c>='a' && c<='z') || (c>='A' && c<='Z'))
    printf("Alphabet");
 else
-   printf("Not a alphabet)
+   printf("Not a alphabet");
 return 0;
 }
