@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
-int n;
-scanf("%d",n);
+int i,n;
+scanf("%d",&n);
 for(i=1;i<=n;i++)
 {
-printf("Hello\n"):
+printf("Hello\n");
 }
 return 0;
 }
