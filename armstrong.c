@@ -11,7 +11,7 @@ cube=pow(rem,3);
 sum=sum+cube;
 n = n/10;
 }
-if(sum=n)
+if(sum==n)
    printf("Yes");
 else
    printf("No");
