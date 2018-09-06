@@ -21,10 +21,10 @@ bool isIsomorphic(string s1, string s2)
  
         }
         else if (map[s1[i]] != s2[i])
-            return false;
+            cout>>false;
     }
  
-    return true;
+    cout>>true;
 }
  
 int main()
